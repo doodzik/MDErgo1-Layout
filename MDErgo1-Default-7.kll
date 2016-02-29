@@ -7,13 +7,17 @@ KLL = "0.3c";
 Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
+U"Y" : '%';
 U"U" : '&';
 U"I" : '|';
 U"O" : '_';
+U"H" : '^';
 U"J" : '(';
 U"K" : ')';
 U"L" : '{';
 U"SEMICOLON" : '}';
+U"N" : '@';
 U"M" : '#';
 U"COMMA" : '!';
+U"PERIOD" : U"BACKTICK";
 
