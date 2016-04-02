@@ -119,10 +119,6 @@
             "w": 6,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "LBRACE",
-                    "label": "["
-                },
                 "2": {
                     "key": "#:flashMode()",
                     "label": "FLASH"
@@ -514,8 +510,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN7",
-                    "label": "\u01927"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -526,10 +522,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "LAT7",
-                    "label": "LATCH-7"
-                }
+
             }
         },
         {
@@ -657,10 +650,7 @@
             "w": 6,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "9",
-                    "label": "9"
-                }
+
             }
         },
         {
@@ -1200,8 +1190,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN6",
-                    "label": "\u01926"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 },
                 "2": {
                     "key": "PENTER",
@@ -1216,10 +1206,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "LAT6",
-                    "label": "LATCH-6"
-                }
+
             }
         }
     ]
