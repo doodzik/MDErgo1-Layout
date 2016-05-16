@@ -533,8 +533,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "1": {
                     "key": "F12",
@@ -650,7 +650,14 @@
             "w": 6,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "LAT1",
+                    "label": "LATCH-1"
+                },
+                "1": {
+                    "key": "LCK2",
+                    "label": "LOCK-2"
+                }
             }
         },
         {
@@ -926,8 +933,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PREV LAYER",
-                    "label": "PREV-\u0192"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
@@ -939,8 +946,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "NEXT LAYER",
-                    "label": "NEXT-\u0192"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             }
         },
@@ -1087,8 +1094,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEUP",
-                    "label": "PGUP"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -1100,8 +1107,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PAGEDOWN",
-                    "label": "PGDN"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             }
         },
